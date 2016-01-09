@@ -4,6 +4,12 @@ public class FirstClass {
 	{
 		
 		System.out.println("Welcome");
+		
+		
+		System.out.println("Welcome");
+		System.out.println("Welcome");
+		System.out.println("Welcome");
+		System.out.println("Welcome");
 	}
 
 }
